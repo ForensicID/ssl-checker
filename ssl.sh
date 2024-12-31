@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Bot Telegram Token && Chat ID
-TELEGRAM_TOKEN="6269039385:AAFG8_BkyqVHKTIsq6qLgY1WeBMF_96z8xo"
-CHAT_ID="-1002184336839"
+TELEGRAM_TOKEN="YOUR_BOT_TOKEN"
+CHAT_ID="YOUR_CHAT_ID"
 # Domain or SubDomain List
 DOMAIN_LIST_FILE="domains.txt"
 
